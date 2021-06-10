@@ -11,6 +11,6 @@ Utilized Python as a programming language and the MNIST dataset for NN training 
 
 `backend.py` contains the datasets for training and testing.
 
-nn.py 
+`nn.py` contains a class representing the components of a neural network.
 
 Since this is a class project, only some files are provided as reference (in particular, to prevent blatant cheating.) Hence, this README does not provide instructions for running the program, nor does it go into great detail.
