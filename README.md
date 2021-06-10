@@ -7,6 +7,10 @@ For each layer, applied a series of weighted linear operations followed by the n
 Incorporated gradient descent to minimize the softmax loss as part of the neural net training process. 
 Utilized Python as a programming language and the MNIST dataset for NN training and test accuracy.
 
-models.py contains the actual neural networks.
+`models.py` contains the actual neural networks.
+
+`backend.py` contains the datasets for training and testing.
+
+nn.py 
 
 Since this is a class project, only some files are provided as reference (in particular, to prevent blatant cheating.) Hence, this README does not provide instructions for running the program, nor does it go into great detail.
